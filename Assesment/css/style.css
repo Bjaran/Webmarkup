@@ -1,13 +1,12 @@
 body{
     background-color: #aaaaaa;
 }
-.grid1{
+.grid1{ /*Dit is de header */
 font-family: 'Courier New', Courier, monospace;
 color: #aaaaaa;
 display: grid;
 grid-template-columns: auto auto auto auto;
 justify-content: center;
-/*background-image: url("../img/photo-of-boats-parked-on-river-2031706.png"); */
 background-size: cover;
 grid-template-rows: auto auto 250px;
 background-position: center;
