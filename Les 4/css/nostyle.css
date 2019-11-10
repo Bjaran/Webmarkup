@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Cedarville+Cursive&display=swap');
+@font-face
+{
+    font-family: "Brajan";
+    src:url("/fonts/ostrich-regular.tff");
+}
+body 
+{
+background-color: salmon;
+}
+h1
+{
+    color: #ff0000;
+    font-family: 'Courier New', "Lucida Console";
+    font-style: oblique;
+}
+p
+{
+    color: rgb(0, 0, 255);
+    font-family: "Cedarville Cursive";
+    font-variant: small-caps;
+}
+footer
+{
+    font-family: "Brajan";
+    font-size: 1.6vw;
+    font-stretch: expanded;
+    color: hsl(328, 100%, 44%);
+}

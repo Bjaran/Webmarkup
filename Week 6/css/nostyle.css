@@ -1,0 +1,57 @@
+@media screen and (min-width: 992px){
+body{
+width: 1000px;
+}
+header {
+    height: 100px;
+}
+h1{
+    height: 200px;
+}
+img{
+    height: 100px;
+    float: left;
+}
+#banner{
+    width: 80%;
+    float: left;
+}
+aside{
+    float: right;
+}
+article{
+    width: 50%;
+    float: left;
+}
+footer{
+    width: 30%;;
+}}
+@media screen and (max-width: 992px){
+    header {
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    #MainHeader{
+        display: none;
+    }
+    img{
+        height: 100px;
+        float: left;
+    }
+    figure img{
+        width: 100%;
+        float: left;
+    }
+    aside{
+        display: none;
+    }
+    article{
+        width: 100%;
+        float: left;
+    }
+    footer{
+        display: none;
+    }}
+    
